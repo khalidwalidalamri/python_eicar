@@ -1,4 +1,3 @@
-```markdown
 # python-eicar
 
 **python-eicar** is a Python package designed to assist in testing antivirus (AV) detection mechanisms for potentially malicious packages and dependencies. It provides simple methods to generate and use the standardized [EICAR test string](https://en.wikipedia.org/wiki/EICAR_test_file), a harmless file used to verify AV software behavior.
@@ -119,5 +118,4 @@ Contributions, ideas, and improvements are welcome! Open an issue or submit a pu
 
 ## ✉️ Contact
 
-Created by Khalid Al-Amri — for security research and defensive testing.
-```
+Created by [Khalid Al-Amri](https://www.linkedin.com/in/khalidwalamri/) — for security research and defensive testing.
